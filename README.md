@@ -166,7 +166,9 @@ The guide patch size is inferred from the fine checkpoint. Reduce
 GPU memory. Use `--disable-exposure-correction` only for the corresponding
 ablation.
 
-## Acknowledgements
+## Acknowledgment
+
+This research is associated with the Korean national R&D project **“Developing a Sustainable Collaborative Multi-modal Lifelong Learning Framework” (Project No. 2022-0-00113)**, conducted within the *Human-Centered AI Core Technology Development* program, supported by the Ministry of Science and ICT (MSIT) and administered by the Institute of Information & Communications Technology Planning & Evaluation (IITP).
 
 This implementation builds on
 [UltraFusion](https://github.com/OpenImagingLab/UltraFusion),
